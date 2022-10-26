@@ -26,4 +26,16 @@ TBD
 TBD - OSHW + OSHWA certificate
 
 ## Photos
-![Screenshot](carduino.png)
+![Screenshot](finix_assembly1.png)
+![Screenshot](finix_assembly2.png)
+![Screenshot](finix_assembly3.png)
+![Screenshot](finix_assembly4.png)
+![Screenshot](finix_pimoroni.png)
+![Screenshot](finix1.png)
+![Screenshot](finix2.png)
+![Screenshot](finix3.png)
+![Screenshot](finix4.png)
+![Screenshot](pcb1.png)
+![Screenshot](pcb2.png)
+![Screenshot](pcb3.png)
+![Screenshot](pcb4.png)
